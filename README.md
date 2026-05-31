@@ -1,4 +1,5 @@
 # PG / Hostel Visitor Log System
+Project details...
 **21CSC205P – Database Management Systems | SRM IST**
 > Anandha Ruban I [RA2411042010013] · Praveen M [RA2411042010026]
 > Guide: Mr. Balachander S
@@ -66,3 +67,6 @@ VISIT_LOG(log_id PK, visit_date, in_time, student_id FK, visitor_id FK)
 | GET    | /api/stats            | Dashboard stats (aggregates)|
 | GET    | /api/search?q=...     | Search visit records        |
 | GET    | /api/health           | Server health check         |
+=======
+# HostelVisitor
+>>>>>>> 97b09c7bfda35b316075e41a5cafc945667f7b8c
